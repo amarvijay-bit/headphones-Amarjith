@@ -1,0 +1,49 @@
+.overlay{
+    position: absolute;
+    top: 28%;
+    right: 65%;
+    color: rgb(0, 0, 0);
+    margin-left: 50px;
+}
+h1{
+    font-weight: bolder;
+}
+.mid{
+    background-color: rgb(234, 203, 26);
+    width: 100%;
+    height: 100px;
+}
+.hot{
+    margin-left:115px;
+}
+.card{
+    margin-left:115px;
+}
+.imgs{
+    margin-left:115px;
+}
+.container {
+    text-align: center;
+    padding: 50px;
+}
+.reasons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.reason {
+    text-align: center;
+    max-width: 200px;
+}
+.reason-number {
+    font-size: 2em;
+    color: orange;
+}
+.reason-title {
+    font-weight: bold;
+    margin: 10px 0;
+}
+.learn-more {
+    color: orange;
+    text-decoration: none;
+}
